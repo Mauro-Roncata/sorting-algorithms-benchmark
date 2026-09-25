@@ -1,0 +1,51 @@
+# =========================
+# Java
+# =========================
+# Arquivos compilados
+*.class
+out/
+build/
+target/
+
+# Pacotes e binários
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs de erro da JVM
+hs_err_pid*
+replay_pid*
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.iws
+*.ipr
+/out/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Diretórios criados em redes AFP (Apple Filing Protocol)
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
